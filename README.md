@@ -24,3 +24,4 @@ A2SV competitive programming problems solutions
 | 3. |[Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium| | Leetcode| || [Python](./leetcode/medium/sort-colors.py)|
 | 4. |[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)|Easy| | Leetcode| ||[Python](./leetcode/easy/roman-to-integer.py)|
 | 4. |[Move Zeroes](https://leetcode.com/problems/roman-to-integer/)|Easy| | Leetcode| ||[Python](./leetcode/easy/move-zeroes.py)|
+| 5. |[Boats To Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium| | Leetcode| ||[Python](./leetcode/medium/boats-to-save-people.py)|

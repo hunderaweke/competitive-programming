@@ -11,7 +11,7 @@ A2SV competitive programming problems solutions
 | No. | Name | Easy | Medium | Hard | Total |
 | --- | ---- | ---- | ------ | ---- | ----- |
 | 1. | [HackerRank](https://www.hackerrank.com/hundera) | 0 | 0 | 0 | 0 |
-| 2. | [LeetCode](https://leetcode.com/hundera) | 2 | 0 | 0 | 2 |
+| 2. | [LeetCode](https://leetcode.com/hundera) | 9 | 4 | 0 | 13 |
 
 ## Problem Solved 
 <!--  -->
@@ -28,3 +28,7 @@ A2SV competitive programming problems solutions
 | 8. |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/add-string/)|Easy| | Leetcode| ||[Python](./leetcode/easy/best-time-to-buy-and-sell-stock.py)|
 | 9. |[Min Stack](https://leetcode.com/problems/add-string/)|Easy| | Leetcode| ||[Python](./leetcode/easy/min-stack.py)|
 | 10. |[Merge String Alternatives](https://leetcode.com/problems/add-string/)|Easy| | Leetcode| ||[Python](./leetcode/easy/merge-strings-alternately.py)|
+| 11. |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium| | Leetcode| ||[Python](./leetcode/medium/324.wiggle-sort-ii.py)|
+
+
+

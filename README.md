@@ -29,6 +29,7 @@ A2SV competitive programming problems solutions
 | 9. |[Min Stack](https://leetcode.com/problems/add-string/)|Easy| | Leetcode| ||[Python](./leetcode/easy/min-stack.py)|
 | 10. |[Merge String Alternatives](https://leetcode.com/problems/add-string/)|Easy| | Leetcode| ||[Python](./leetcode/easy/merge-strings-alternately.py)|
 | 11. |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium| | Leetcode| ||[Python](./leetcode/medium/324.wiggle-sort-ii.py)|
+| 12. |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy| | Leetcode| ||[Python](./leetcode/easy/1365.how-many-numbers-are-smaller-than-the-current-number.py)|
 
 
 

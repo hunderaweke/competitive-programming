@@ -11,7 +11,8 @@ A2SV competitive programming problems solutions
 | No. | Name | Easy | Medium | Hard | Total |
 | --- | ---- | ---- | ------ | ---- | ----- |
 | 1. | [HackerRank](https://www.hackerrank.com/hundera) | 0 | 0 | 0 | 0 |
-| 2. | [LeetCode](https://leetcode.com/hundera) | 9 | 4 | 0 | 13 |
+| 2. | [LeetCode](https://leetcode.com/hundera) | 9 |5 | 0 | 14 |
+| 2. | [Codeforces](https://codeforces.com/profile/hun_era) | 8 | 0 | 0 | 8 |
 
 ## Problem Solved 
 <!--  -->
@@ -31,6 +32,7 @@ A2SV competitive programming problems solutions
 | 11. |[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|Medium| | Leetcode| ||[Python](./leetcode/medium/324.wiggle-sort-ii.py)|
 | 12. |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy| | Leetcode| ||[Python](./leetcode/easy/1365.how-many-numbers-are-smaller-than-the-current-number.py)|
 | 13. |[A. Boy or Girl](https://codeforces.com/problemset/problem/236/A/)|Easy| | Codeforces| ||[C++](./codeforces/A_Boy_or_Girl.cpp)|
+| 14. |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium| | Leetcode| ||[Python](./leetcode/medium/451.sort-characters-by-frequency.py)|
 
 
 

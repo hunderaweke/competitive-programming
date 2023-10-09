@@ -12,7 +12,7 @@ A2SV competitive programming problems solutions
 | --- | ---- | ---- | ------ | ---- | ----- |
 | 1. | [HackerRank](https://www.hackerrank.com/hundera) | 0 | 0 | 0 | 0 |
 | 2. | [LeetCode](https://leetcode.com/hundera) | 9 |5 | 0 | 14 |
-| 2. | [Codeforces](https://codeforces.com/profile/hun_era) | 8 | 0 | 0 | 8 |
+| 3. | [Codeforces](https://codeforces.com/profile/hun_era) | 8 | 0 | 0 | 8 |
 
 ## Problem Solved 
 <!--  -->

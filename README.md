@@ -36,6 +36,7 @@ A2SV competitive programming problems solutions
 | 15. |[Maximum Number of Coin You can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description)|Medium| | Leetcode| ||[Python](./leetcode/medium/1561.maximum-number-of-coins-you-can-get.py)|
 | 16. |[Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1)|Easy| | GeeksforGeeks| ||[Python](./geeksforgeeks/SelectionSort.py)|
 | 17. |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|Easy| | Leetcode| ||[Python](./leetcode/easy/349.intersection-of-two-arrays.py)|
+| 18. |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|Easy| | Leetcode| ||[Python](./leetcode/easy/349.intersection-of-two-arrays-ii.py)|
 
 
 

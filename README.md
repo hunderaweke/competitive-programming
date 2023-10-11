@@ -33,7 +33,8 @@ A2SV competitive programming problems solutions
 | 12. |[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|Easy| | Leetcode| ||[Python](./leetcode/easy/1365.how-many-numbers-are-smaller-than-the-current-number.py)|
 | 13. |[A. Boy or Girl](https://codeforces.com/problemset/problem/236/A/)|Easy| | Codeforces| ||[C++](./codeforces/A_Boy_or_Girl.cpp)|
 | 14. |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium| | Leetcode| ||[Python](./leetcode/medium/451.sort-characters-by-frequency.py)|
-| 15. |[Two Vesels](https://codeforces.com/problemset/problem/1872/A)|Easy| | Codeforces| ||[Python](./codeforces/A_Two_Vessels.cpp)|
-
-
-
+| 15. |[Maximum Number of Coin You can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description)|Medium| | Leetcode| ||[Python](./leetcode/medium/1561.maximum-number-of-coins-you-can-get.py)|
+| 16. |[Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1)|Easy| | GeeksforGeeks| ||[Python](./geeksforgeeks/SelectionSort.py)|
+| 17. |[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|Easy| | Leetcode| ||[Python](./leetcode/easy/349.intersection-of-two-arrays.py)|
+| 18. |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|Easy| | Leetcode| ||[Python](./leetcode/easy/349.intersection-of-two-arrays-ii.py)|
+| 19. |[Two Vesels](https://codeforces.com/problemset/problem/1872/A)|Easy| | Codeforces| ||[Python](./codeforces/A_Two_Vessels.cpp)|

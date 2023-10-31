@@ -1,0 +1,3 @@
+[submodule "competitive-directory-automation"]
+	path = competitive-directory-automation
+	url = git@github.com:hunderaweke/competitive-directory-automation.git

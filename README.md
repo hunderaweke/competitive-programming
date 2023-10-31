@@ -41,4 +41,4 @@ A2SV competitive programming problems solutions
 | 20. |[Two Sum II](https://eetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium| | Leetcode| ||[Python](./leetcode/medium/167.two-sum-ii-input-array-is-sorted.py)|
 | 21. |[Move Zeroes](https://eetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium| | Leetcode| ||[Python](./leetcode/easy/283.move-zeroes.py)|
 | 22. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | | Leetcode| ||[Python](./leetcode/medium/904.fruit-into-baskets.py)|
-| 23. | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | | Leetcode| ||[Python](./readmewriter.py)|| . | []() |  | | | ||[Python](./readmewriter.py)|
+| 23. | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | | Leetcode| ||[Python](./readmewriter.py)|| . | []() |  | | | ||[Python](./readmewriter.py)|| 24. | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | | Leetcode| ||[Python](./leetcode/medium/560.subarray-sum-equals-k.py)|

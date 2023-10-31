@@ -6,9 +6,6 @@
 
 
 # @lc code=start
-from collections import *
-
-
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         basket = defaultdict(int)
@@ -21,8 +18,9 @@ class Solution:
                 total -= 1
                 if not basket[fruits[left]]:
                     basket.pop(fruits[left])
-                left +=1
-            res = max(res,total)
+                left += 1
+            res = max(res, total)
         return res
+
 
 # @lc code=end

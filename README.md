@@ -40,4 +40,3 @@ A2SV competitive programming problems solutions
 | 19. |[Two Vesels](https://codeforces.com/problemset/problem/1872/A)|Easy| | Codeforces| ||[Python](./codeforces/A_Two_Vessels.cpp)|
 | 20. |[Two Sum II](https://eetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium| | Leetcode| ||[Python](./leetcode/medium/167.two-sum-ii-input-array-is-sorted.py)|
 | 21. |[Move Zeroes](https://eetcode.com/problems/two-sum-ii-input-array-is-sorted)|Medium| | Leetcode| ||[Python](./leetcode/easy/283.move-zeroes.py)|
-| 22 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | Medium | | Leetcode| ||[Python](./leetcode/medium/904.fruit-into-baskets.py)|

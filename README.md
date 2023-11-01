@@ -43,3 +43,4 @@ A2SV competitive programming problems solutions
 | 22. | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | Medium | | Leetcode| ||[Python](./leetcode/medium/904.fruit-into-baskets.py)|
 | 23. | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | Medium | | Leetcode| ||[Python](./readmewriter.py)|| . | []() |  | | | ||[Python](./readmewriter.py)|
 | 24. | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | | Leetcode| ||[Python](./leetcode/medium/560.subarray-sum-equals-k.py)|
+| 25. | [Subarray Sum Equals K](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | Medium | | Leetcode| ||[Python](./leetcode/medium/2410.)|
